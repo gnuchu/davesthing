@@ -1,0 +1,32 @@
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: 40% auto auto;
+  width: 80%;
+  grid-row-gap: 10px;
+}
+
+.grid-item {
+  padding: 10px 20px;
+}
+
+/* Brand 1 */
+.brand_1_light {
+  background-color: #007DBA;
+  color: white;
+}
+
+.brand_1_dark {
+  background-color: #004165;
+  color: white;
+}
+
+/* Brand 2 */
+.brand_2_light {
+  background-color: #f4511e;
+  color: white;
+}
+
+.brand_2_dark {
+  background-color: #bf360c;
+  color: white;
+}
